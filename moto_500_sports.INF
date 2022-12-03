@@ -1,0 +1,257 @@
+[General]
+Image=skin.png
+Frame Image=0,0,165,475
+
+[Yes Button]
+Window=113,288,23,26
+Image=423,418
+Image Pushed=623,418
+
+[Menu Button]
+Window=74,255,22,17
+Image=384,385
+Image Pushed=584,385
+
+[No Button]
+Window=33,288,23,26
+Image=343,418
+Image Pushed=543,418
+
+[1 Button]
+Window=31,316,30,27
+Image=341,446
+Image Pushed=541,446
+
+[2 Button]
+Window=65,324,39,20
+Image=375,454
+Image Pushed=575,454
+
+[3 Button]
+Window=107,316,31,27
+Image=417,446
+Image Pushed=617,446
+
+[4 Button]
+Window=31,343,32,21
+Image=341,473
+Image Pushed=541,473
+
+[5 Button]
+Window=65,347,39,17
+Image=375,477
+Image Pushed=575,477
+
+[6 Button]
+Window=107,343,31,21
+Image=417,473
+Image Pushed=617,473
+
+[7 Button]
+Window=34,364,33,21
+Image=344,494
+Image Pushed=544,494
+
+[8 Button]
+Window=67,364,32,21
+Image=377,494
+Image Pushed=577,494
+
+[9 Button]
+Window=103,364,33,21
+Image=413,494
+Image Pushed=613,494
+
+[* Button]
+Window=36,387,27,24
+Image=346,517
+Image Pushed=546,517
+
+[0 Button]
+Window=69,387,31,24
+Image=379,517
+Image Pushed=579,517
+
+[# Button]
+Window=108,387,24,24
+Image=418,517
+Image Pushed=618,517
+
+
+[Help Button]
+Window=57,432,18,18
+Image=327,20
+Image Pushed=392,20
+
+[Minimize Button]
+Window=78,434,18,18
+Image=346,20
+Image Pushed=411,20
+
+[Close Button]
+Window=98,432,18,18
+Image=364,20
+Image Pushed=429,20
+
+[Select Contact Button]
+Window=38,255,27,26
+Image=348,385
+Image Pushed=548,385
+
+[Function Button]
+First Window=219,65,26,26
+Vertical Offset=12
+Separator Height=1
+
+[GPRS Button]
+Rank=1
+Window=488,42,26,26
+Image=370,77
+Image Pushed=419,77
+Image Disabled=322,77
+Image Hover=419,77
+Show On Slider=1
+
+[MM Studio Button]
+Rank=4
+Window=488,172,30,30
+Image=370,173
+Image Pushed=419,173
+Image Disabled=322,173
+Image Hover=419,173
+Show On Slider=1
+
+[SMS Button]
+Rank=2
+Window=488,42,26,26
+Image=370,109
+Image Pushed=419,109
+Image Disabled=322,109
+Image Hover=419,109
+Show On Slider=1
+
+[Mail Button]
+Rank=3
+Window=488,42,26,26
+Image=370,141
+Image Pushed=419,141
+Image Disabled=322,141
+Image Hover=419,141
+Show On Slider=1
+
+[Phonebk Button]
+Rank=5
+Window=488,42,26,26
+Image=370,205
+Image Pushed=419,205
+Image Disabled=322,205
+Image Hover=419,205
+Show On Slider=1
+
+[Sync Button]
+Rank=7
+Window=488,42,26,26
+Image=370,270
+Image Pushed=419,270
+Image Disabled=322,270
+Image Hover=419,270
+Show On Slider=1
+
+[Info Button]
+Rank=8
+Window=488,42,26,26
+Image=370,302
+Image Pushed=419,302
+Image Disabled=322,302
+Image Hover=419,302
+Show On Slider=1
+
+
+[Calendar Button]
+Rank=6
+Window=488,42,26,26
+Image=370,238
+Image Pushed=419,238
+Image Disabled=322,238
+Image Hover=419,238
+Show On Slider=1
+
+
+
+[Signal Level Image]
+Window=43,89,20,12
+Image 0=58,510
+Image 1=58,524
+Image 2=58,538
+Image 3=58,552
+Image 4=58,566
+Image 5=58,580
+
+[Battery Level Image]
+Window=113,90,13,7
+Image 0=30,514
+Image 1=30,528
+Image 2=30,542
+Image 3=30,556
+Image 4=30,570
+
+[Received Message Image]
+Window=76,89,18,13
+Image 0=275,516
+Image 1=275,486
+Image 2=275,516
+
+[GPRS Image]
+Window=45,104,21,21
+Image 0=154,483
+Image 1=194,483
+
+[SMS Animation]
+Window=70,120,28,28
+Image 0=480,134
+Image 1=540,134
+Image 2=480,185
+Image 3=540,185
+Timer=200
+
+[Roaming Image]
+Window=66,94,7,6
+Image 0=80,515
+
+[Operator Text]
+Window=48,180,76,13
+Format=CENTER
+Color=000000
+
+[Time Text]
+Window=75,122,32,12
+Format=CENTER
+Color=000000
+
+[Functions Panel]
+Image=185,39,75,339
+Closed Position=30,63
+Open Position=135,63
+
+[Functions Panel Button]
+Window=104,255,29,26
+Image=414,385
+Image Pushed=614,385
+
+[Volume Bar]
+Window=58,145,73,10
+Channel Image=217,589
+Slider Image=259,581,15,23
+
+[Mute Check]
+Window=48,118,22,22
+Image=159,578
+Image Pushed=184,578
+
+
+
+[Dialing Window]
+Window=40,165,90,19
+
+[Alarms Icons]
+position=70,106
